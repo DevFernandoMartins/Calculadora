@@ -1,1 +1,1 @@
-![image](https://github.com/DevFernandoMartins/Calculadora/assets/98265281/8de25297-6e07-49e8-98d2-ad76f10295fb)
+![image](https://github.com/DevFernandoMartins/Calculadora/assets/98265281/9e3ab68e-9d46-4fc9-b4de-d4b9406c3dac)
