@@ -1,6 +1,7 @@
 # 🧮Calculadora
 ![image](https://github.com/DevFernandoMartins/Calculadora/assets/98265281/078a0c6a-ad8d-4c0c-91cc-a35ef50bdfd2)
 Calculadora simples desenvolvida em uma atividade de aprendizado de HTML, CSS e JavaScript
+[Veja aqui!](https://devfernandomartins.github.io/Calculadora/Calculadora/index.html)
 
  ## Contribuindo
 
